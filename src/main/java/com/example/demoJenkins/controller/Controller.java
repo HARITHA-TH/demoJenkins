@@ -13,7 +13,7 @@ public class Controller {
     }
     @GetMapping("/login")
     public String log(){
-        return "login";
+        return "loginn";
     }
 
 
